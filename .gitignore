@@ -1,0 +1,6 @@
+# PACKAGES
+packages/
+
+# BINARY LOCATIONS
+RESTTest/bin
+RESTTest/obj
